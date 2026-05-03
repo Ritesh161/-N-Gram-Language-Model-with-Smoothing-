@@ -1,0 +1,4 @@
+I love natural language processing.
+Natural language processing is fun.
+I love coding in python.
+Python is easy to learn.
